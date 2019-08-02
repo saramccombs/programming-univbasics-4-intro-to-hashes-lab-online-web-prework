@@ -47,7 +47,7 @@ def read_from_hash(hash, key)
   if hash[key]
     has[key]
   else 
-    nil
+    return nil
   end
 end
 
