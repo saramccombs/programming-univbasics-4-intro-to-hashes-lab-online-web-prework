@@ -6,8 +6,8 @@ end
 def my_hash
   # return a valid hash with any key/value pair of your choice
   person = {
-    name: "Sara"
-    age: 36
+    name: "Sara",
+    age: 36,
     hometown: "WV"
   }
   
