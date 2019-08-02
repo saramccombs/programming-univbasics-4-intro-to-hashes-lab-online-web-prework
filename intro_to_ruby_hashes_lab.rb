@@ -12,7 +12,6 @@ def my_hash
   }
   
   return person
-  
 end
 
 def pioneer
@@ -22,7 +21,6 @@ def pioneer
   }
   
   return pioneer_persons
-  
 end
 
 def id_generator
@@ -32,7 +30,6 @@ def id_generator
   }
   
   return id_generator_hash
-  
 end
 
 def my_hash_creator(key, value)
