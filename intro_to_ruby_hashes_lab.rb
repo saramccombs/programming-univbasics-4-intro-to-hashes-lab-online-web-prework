@@ -11,7 +11,7 @@ def my_hash
     hometown: "WV"
   }
   
-  person
+  return person
   
 end
 
